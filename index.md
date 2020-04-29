@@ -1,5 +1,5 @@
-## Tejan Singh
-Programming and Game Development
+# Tejan Singh
+### Programming and Game Development
 
 Hello, this is a collection of some of my work.
 
