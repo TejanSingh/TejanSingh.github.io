@@ -7,8 +7,19 @@ Itch.io - [https://zonakid.itch.io/](https://zonakid.itch.io/)
 
 Contact - [tejansingh97@yahoo.com](tejansingh97@yahoo.com)
 
-### Test Header
-<iframe width="560" height="315" src="https://www.youtube.com/embed/czcjEKwITvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Game Jams
+<iframe frameborder="0" src="https://itch.io/embed/616104?dark=true" width="552" height="167"><a href="https://lukewasthefish.itch.io/prisoner-3774">Prisoner #3774 by lukewasthefish, ZonaKid, alexcarney</a></iframe>
+**A team entry to University of Arizona Spring 2020 Game jam**
+
+The game was made over the course of 48 hours to the theme "You are the bad guy". Prisoner #3774 came in 3rd place of about 20 entries.
+Old PSX games with fixed camera systems like resident evil were the main influence in the art and style of this game.
+
+**My Contributions:**
+- Programmed enemy Line of Sight and AI behavior
+- Created and integrated all animation trees
+- Programmed Player movement
+- Designed post-bridge section of level
+
 
 ### Markdown
 
