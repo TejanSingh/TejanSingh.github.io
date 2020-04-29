@@ -8,7 +8,7 @@ Itch.io - [https://zonakid.itch.io/](https://zonakid.itch.io/)
 Contact - [tejansingh97@yahoo.com](tejansingh97@yahoo.com)
 
 ### Test Header
-[Test Project](https://www.youtube.com/watch?v=czcjEKwITvI)
+[![Test Project](http://img.youtube.com/vi/czcjEKwITvI/0.jpg)](http://www.youtube.com/watch?v=czcjEKwITvI "Test project")
 
 ### Markdown
 
