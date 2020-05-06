@@ -43,7 +43,7 @@ different uses. The Generator was built within Unity and utilizes prefab spawnin
 
 ## Prisoner 3774 
 <iframe frameborder="0" src="https://itch.io/embed/616104?dark=true" width="552" height="167"><a href="https://lukewasthefish.itch.io/prisoner-3774">Prisoner #3774 by lukewasthefish, ZonaKid, alexcarney</a></iframe>
-**A team entry to University of Arizona Spring 2020 Game jam**
+_A team entry to University of Arizona Spring 2020 Game jam_
 
 The game was made over the course of 48 hours to the theme "You are the bad guy". Prisoner #3774 came in 3rd place of about 20 entries.
 Old PSX games with fixed camera systems like resident evil were the main influence in the art and style of this game.
