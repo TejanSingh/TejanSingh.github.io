@@ -11,16 +11,28 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n0toS-7yYKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **A short show reel of some mechanics I have programmed for various projects**
 
-**Mechanics**
+**Mechanics shown**
 - Third person controller
-- Normals based racing controller
+    - Camera relative toggle
+    - Cinemachine integrated
+    - Animation blend tree
+- Racing controller and effects
+    - Smooth interpolation between normal faces
+    - Animation blend tree 
+    - World space particle effects
 - FPS-style Shooter and HUD
-- Third person platformer
+    - HUD and helmet rendered to target texture
+    - Cinemachine integrated
+    - Charge shot and quick fire modes
+    - Energy resorce management
 
-## Projects
+# Projects
+
+## Modular Generator
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LyJ_oABFX9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Modular Generator capable of seamlessly connecting modules for endless randomly generated content**
+
 The modular generator featured above uses a system of modules with connection points to create content of any size and scale.
 The applications of this generator are far reaching: modular items like weapons, modular roads or cities, infitely deep dungeons,
 and much more. Defining a module to work within the generator is very simple, this is the reason the generator can be applied to many 
