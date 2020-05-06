@@ -1,4 +1,3 @@
-```markdown
 # Tejan Singh
 ### Programming and Game Development
 
@@ -7,7 +6,7 @@
 **Itch.io - [https://zonakid.itch.io/](https://zonakid.itch.io/)**
 
 **Contact - [tejansingh97@yahoo.com](mailto:tejansingh97@yahoo.com)**
-```
+
 ## Mechanics
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n0toS-7yYKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 _A short show reel of some mechanics I have programmed for various projects_
@@ -55,28 +54,6 @@ Old PSX games with fixed camera systems like resident evil were the main influen
 - Programmed Player movement
 - Designed post-bridge section of level
 
-```
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-```
