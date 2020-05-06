@@ -9,7 +9,7 @@
 
 ## Mechanics
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n0toS-7yYKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-**A short show reel of some mechanics I have programmed for various projects**
+_A short show reel of some mechanics I have programmed for various projects_
 
 **Mechanics shown**
 - Third person controller
@@ -31,7 +31,7 @@
 ## Modular Generator
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LyJ_oABFX9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Modular Generator capable of seamlessly connecting modules for endless randomly generated content**
+_Modular Generator capable of seamlessly connecting modules_
 
 The modular generator featured above uses a system of modules with connection points to create content of any size and scale.
 The applications of this generator are far reaching: modular items like weapons, modular roads or cities, infitely deep dungeons,
